@@ -1,1 +1,1 @@
-new line
+Hexlet is awesome too!
